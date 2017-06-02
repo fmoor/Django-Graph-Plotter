@@ -1,6 +1,6 @@
-#Django Graph Plotter
+# Django Graph Plotter
 
-###How to install ?
+### How to install ?
 
 * First fork the repo and then clone it on local machine.
 * Create a Virtual environment and install the dependencies.
@@ -14,6 +14,6 @@ pip install -r requirements.txt
 * In Domain , enter the range of values of x seperated by space like **10 30**.
 
 
-**Digital Artist Prateek | [Visit Website] (http://www.askprateek.com)** 
+**Digital Artist Prateek | [Visit Website](http://www.askprateek.com)** 
 
 
