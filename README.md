@@ -2,11 +2,12 @@
 
 ###How to install ?
 
-* First fork the repo and then clone it on local machine.
-* Create a Virtual environment and install the dependencies.
-'''
+* Clone the repo on your local machine.
+* Create a python 3 virtual environment.
+* Install the dependencies.
+```python
 pip install -r requirements.txt
-'''
+```
 
 ### How to Use?
 
